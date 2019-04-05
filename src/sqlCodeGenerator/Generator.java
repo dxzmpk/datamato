@@ -76,8 +76,6 @@ status
 creator_id
  */
 
-status_id
-name
 /*
 uuid
 name

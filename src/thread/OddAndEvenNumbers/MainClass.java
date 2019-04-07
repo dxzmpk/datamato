@@ -1,6 +1,6 @@
 package thread.OddAndEvenNumbers;
 
-//Main Class
+//LabelTest Class
 
 public class MainClass
 {
